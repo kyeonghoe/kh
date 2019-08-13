@@ -1,0 +1,17 @@
+480*480   
+480*960
+
+section > article로 넣기
+높이고정 x
+
+모바일 2 배
+테블릿 3배
+pc 1.5배 
+줄였을때 안보이는거 display none
+footer
+
+Lo Spuntino is an authentic Italian restaurant located in Monterrey, Mexico. Since their move to Parque Arboleda, one of Monterrey's newest and very high-end shopping districts, our client wanted to rebrand his star restaurant into something fresh and elegant, but still faithful to their cuisine's traditionality. For the color palette, we chose an electric blue, as a modern, more youthful nod towards azzurro, the national color of Italy. A modern mix of classic and script typefaces together with the electric azure was designed especially to draw in adults of all ages, young and old alike.
+
+Traditional wine cellars were the inspiration for the interior design. Materials like concrete, brick, and wood, together with round, convex forms brilliantly lit with warm light and blue details come together to form a soothing, elegant and cozy atmosphere.
+
+Interior design by Laboratorios Vaquero - @lv.arq
